@@ -1,0 +1,4 @@
+variable - a variable is a name that holds a value.
+typecasting - Typecasting in Python is the process of converting a variable from one data type to another. 
+input() -input() function in Python is used to take input from the user. it will be stored in string so no integer
+ # f is used when we use variables
