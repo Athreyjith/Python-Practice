@@ -12,6 +12,6 @@ print(age)
 age=str(age)
 age +='1'
 print(age)
+print(name)
 
 name= bool(name)
-print(name)

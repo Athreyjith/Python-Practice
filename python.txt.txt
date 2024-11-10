@@ -2,3 +2,9 @@ variable - a variable is a name that holds a value.
 typecasting - Typecasting in Python is the process of converting a variable from one data type to another. 
 input() -input() function in Python is used to take input from the user. it will be stored in string so no integer
  # f is used when we use variables
+
+# An augmented assignment operator in Python is a shorthand way to perform an operation on a variable and 
+then assign the result back to that variable. 
+It combines an arithmetic or logical operation with assignment in a single expression.
+
+math function - The import math statement in Python is used to include the math module, which provides mathematical function
